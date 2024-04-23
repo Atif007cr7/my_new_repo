@@ -10,25 +10,25 @@ List<Project> projectList = [
   Project(
     'ERP',
     'ERP stands for enterprise resource planning. It a software system that includes all the tools and processes required to run a successful company, including HR, manufacturing, supply chain, finance, accounting, and more',
-    'assets/images/coffee.png',
+    '',
     '',
   ),
   Project(
     'Aqsa Food Webiste',
     'This Aqsa Food was manage and create by me on Order of A client , i have use stack widget in it for the beautifull view of Dashboard , ',
-    'assets/images/car.png',
+    '',
     '',
   ),
   Project(
       'Imoda',
       'Imoda is a Fashion Design Application , any kind of fashion event or any other thing related to latest fashion will get uplode here i have manage the app in the end and make the app in correct fromate ',
-      'assets/images/alarm.jpg',
+      '',
       'https://play.google.com/store/apps/details?id=com.imoda.user&pcampaignid=web_share'),
   Project(
       'CRM',
       'CRM (customer relationship management) is the combination of practices, strategies and technologies that companies use to manage and analyze customer interactions and data throughout the customer lifecycle.',
-      'assets/images/cui.png',
-      'https://github.com/Hamad-Anwar/'),
+      '',
+      ''),
   // Project(
   //     'Flutter Music Streaming Application',
   //     'A Flutter music streaming application that allows users to play audio files from local storage. The app features a beautiful neumorphic UI design and provides a smooth user experience for browsing and playing music.',

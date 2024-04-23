@@ -22,7 +22,7 @@ class About extends StatelessWidget {
               style: Theme.of(context).textTheme.titleSmall,
             ),
             const SizedBox(
-              height: defaultPadding / 4,
+              height: 30,
             ),
             const Text(
               'Flutter Developer & Develop Web, App , Ios Application',
