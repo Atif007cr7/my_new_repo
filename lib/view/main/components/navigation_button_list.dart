@@ -38,6 +38,7 @@ class NavigationButtonList extends StatelessWidget {
                     controller.animateToPage(2,
                         duration: const Duration(milliseconds: 500),
                         curve: Curves.easeIn);
+                    // bdsjbnsj
                   },
                   text: 'Services'),
             ],
