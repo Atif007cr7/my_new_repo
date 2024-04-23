@@ -35,9 +35,9 @@ class NavigationButtonList extends StatelessWidget {
               // NavigationTextButton(onTap: () {controller.animateToPage(2, duration: const Duration(milliseconds: 500), curve: Curves.easeIn);}, text: 'Certifications'),
               NavigationTextButton(
                   onTap: () {
-                    controller.animateToPage(2,
-                        duration: const Duration(milliseconds: 500),
-                        curve: Curves.easeIn);
+                    // controller.animateToPage(2,
+                    //     duration: const Duration(milliseconds: 500),
+                    //     curve: Curves.easeIn);
                     // bdsjbnsj
                   },
                   text: 'Services'),
